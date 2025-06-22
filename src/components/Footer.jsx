@@ -48,16 +48,17 @@ const Footer = () => {
                 <MapPin className="h-5 w-5 text-primary-400 mt-0.5 flex-shrink-0" />
                 <div>
                   <p className="text-gray-300">
-                    123 Education Street, Academic District,<br />
-                    Pune, Maharashtra 411001
+                    Room No .08, Javed Manzil , Ground floor, 
+                    <br />
+                    Kishore kumar Ganguly Marg, Juhu Tara road ,
+                     <br /> Santacruz (W) , Mumbai - 400 049
                   </p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-primary-400 flex-shrink-0" />
                 <div>
-                  <p className="text-gray-300">+91 98765 43210</p>
-                  <p className="text-gray-300">+91 87654 32109</p>
+                  <p className="text-gray-300">+919987104801</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
